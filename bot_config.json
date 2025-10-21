@@ -1,0 +1,19 @@
+{
+  "work_dir": "C:/Users/Vater/Desktop/Work/Dyadya Valera",
+  "adb": {
+    "host": "127.0.0.1",
+    "port": 5037
+  },
+  "proxy": {
+    "port": 8080,
+    "upstream": null
+  },
+  "gnubg": {
+    "ply": 2,
+    "noise": 0.01
+  },
+  "bot": {
+    "log_level": 1,
+    "auto_play": true
+  }
+}
